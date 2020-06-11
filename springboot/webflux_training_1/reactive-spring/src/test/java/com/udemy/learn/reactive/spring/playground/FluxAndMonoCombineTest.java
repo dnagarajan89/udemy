@@ -1,4 +1,4 @@
-package com.udemy.learn.reactive.spring;
+package com.udemy.learn.reactive.spring.playground;
 
 import jdk.jfr.FlightRecorder;
 import org.junit.jupiter.api.Test;
